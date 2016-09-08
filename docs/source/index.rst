@@ -1,22 +1,23 @@
-.. Quantiacs Matlab Toolbox documentation master file, created by
-   sphinx-quickstart on Thu Sep  8 14:02:01 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to Quantiacs Matlab Toolbox user guide!
+===============================================
 
-Welcome to Quantiacs Matlab Toolbox's documentation!
-====================================================
-
-Contents:
+Table of contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
+   toolboxes
+   ts_structure
+   market_position_trading
+   settings
+   evaluate_system
+   submit_system
+   optimization
+   performance
+   reference
 
-
-Indices and tables
+Indices and Search
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
-
