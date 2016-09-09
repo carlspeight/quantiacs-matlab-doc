@@ -1,5 +1,5 @@
 Welcome to Quantiacs Matlab Toolbox user guide!
-===============================================
+==================================================
 
 Table of contents:
 
@@ -17,7 +17,18 @@ Table of contents:
    reference
 
 Indices and Search
-==================
+=====================
 
 * :ref:`genindex`
 * :ref:`search`
+
+Contact Us
+=============
+
+Questions, comments, concerns or just want to say hello?
+
+Contact us at office@quantiacs.com
+
+Visit us at `Quantiacs`_
+
+.. _`Quantiacs`: https://www.quantiacs.com/Home.aspx
